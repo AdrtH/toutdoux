@@ -25,7 +25,7 @@ Will dysplay as
 priority:3 // TODOOO :  will crash if y, should fix that
 priority:2 // TODOO : this is very slow, consider changing the algorithm
 priority:1 // TODO : change the string formatting for x
-
+```  
 use toutdoux --help to view all parameters available
 
 **WARNING** It only supports Unicode for the moment.  
