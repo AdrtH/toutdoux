@@ -16,11 +16,11 @@ This has the advantage of organizing your todo by priority.
 
 # EXAMPLE
 ```
-// TODO : change the string formatting for x
-// TODOOO :  will crash if y, should fix that
-// TODOO : this is very slow, consider changing the algorithm
-```
-Will dysplay as 
+// TODO : change the string formatting for x  
+// TODOOO :  will crash if y, should fix that   
+// TODOO : this is very slow, consider changing the algorithm   
+```  
+Will dysplay as  
 ```
 priority:3 // TODOOO :  will crash if y, should fix that
 priority:2 // TODOO : this is very slow, consider changing the algorithm
