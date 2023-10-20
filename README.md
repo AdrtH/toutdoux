@@ -32,3 +32,6 @@ use toutdoux --help to view all parameters available
 **WARNING** If you use the recursive mode, I recommand putting a extension clause, (-e)  
 **WARNING** It will always skip .o or no-extension file  
 **WARNING** This is poorly written, it's my first time using Rust ever.  
+
+This is not my idea, I saw this tool being used by some people and wanted to create it by myself, tailored to my likings,  
+I unfortunately don't know where it originates, **be free to PR this readme to link the original work**.  
