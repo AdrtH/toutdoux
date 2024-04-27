@@ -20,7 +20,7 @@ This has the advantage of organizing your todo by priority.
 // TODOOO :  will crash if y, should fix that   
 // TODOO : this is very slow, consider changing the algorithm   
 ```  
-Will dysplay as  
+Will display as  
 ```
 priority:3 // TODOOO :  will crash if y, should fix that
 priority:2 // TODOO : this is very slow, consider changing the algorithm
